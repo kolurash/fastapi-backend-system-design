@@ -58,8 +58,7 @@ fastapi-backend-system-design/
 
 ### Swagger API Documentation
 
-Swagger docs output.png
-Swagger docs.user.png
+![Swagger Docs](Swagger docs output.png)
 
 ### Users API Response
 
