@@ -54,15 +54,6 @@ fastapi-backend-system-design/
 ```
 
 ---
-## Output Screenshots
-
-### Swagger API Documentation
-
-![Swagger Docs](Swagger docs output.png)
-
-### Users API Response
-
-![Users API](Swagger docs output.png)
 
 ## Installation
 
