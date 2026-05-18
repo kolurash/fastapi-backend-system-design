@@ -157,7 +157,3 @@ Reusable backend authentication verification.
 
 ---
 
-## Author
-
-Rashmitha
-Prompt Engineering Intern
